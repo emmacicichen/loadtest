@@ -1,4 +1,4 @@
-## a general-purpose HTTP load-testing and benchmarking library
+## LoadTestLib: A general-purpose HTTP load-testing and benchmarking library
 
 ### How to run a Load Test
 - build a docker image
